@@ -15,5 +15,7 @@ Manish Chugani (Deep Neural Network Architecture)
 Alisha Kulkarni (Gaussian Process Regression)  
 Sumedha Girish Atreysa (Support Vector Regression)  
 
+The presentation recording is available at: https://drive.google.com/file/d/16elH5EX1b4Vij6YinAR3J1gB8s2pSLSG/view?usp=sharing
+
 University of California, Riverside  
 EE228 Introduction to Deep Learning  
